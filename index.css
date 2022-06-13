@@ -1,0 +1,30 @@
+       .hitokoto{
+         background-color: #FFFFFF;
+       }
+       .accountlink{
+         background-color: #FFFFFF;
+       }
+       .link{
+         background-color: #FFFFFF;
+       }
+       .kansou-link{
+         text-decoration: none;
+         color: #FFFFFF;
+         font-size: 20px;
+       }
+       body{
+         background-color: #000000;
+       }
+       h1{
+         color: #FFFFFF;
+         font-size: 35px;
+       }
+       h2{
+         font-size: 25px;
+       }
+       p{
+         font-size: 17px;
+       }
+       a{
+         font-size: 20px;
+       }
